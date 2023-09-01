@@ -1,5 +1,7 @@
 🐫 [CAMEL-AI.org](https://www.camel-ai.org/): Building AI Society with Agents 🤖
 
+---
+
 English | 英文 | العربية
 
 Hello there, passionate AI enthusiasts! 🌟 We are 🐫 CAMEL-AI.org, a global coalition of students, researchers, and engineers dedicated to advancing the frontier of AI and fostering a harmonious relationship between agents and humans.
@@ -10,6 +12,8 @@ Hello there, passionate AI enthusiasts! 🌟 We are 🐫 CAMEL-AI.org, a global 
 
 🔗 Dive deeper and explore our projects on 🐫 [CAMEL-AI.org](https://www.camel-ai.org/)!
 
+---
+
 中文 | Chinese | صينى
 
 您好，热爱AI的朋友们！🌟 我们是 🐫 [CAMEL-AI.org](https://www.camel-ai.org/)，一个由学生、研究人员和工程师组成的全球团队，致力于推进AI的前沿，促进智能体与人类的和谐关系。
@@ -19,6 +23,8 @@ Hello there, passionate AI enthusiasts! 🌟 We are 🐫 CAMEL-AI.org, a global 
 🙌 加入我们：如果您相信一个AI和人类共存并繁荣的世界，那么您来对了地方。您的支持可以产生重大影响。让我们一起建立明天的AI社会！
 
 🔗 深入了解并探索我们在 🐫 [CAMEL-AI.org](https://www.camel-ai.org/) 上的项目！
+
+---
 
 العربية | Arabic ｜ 阿拉伯语
 
