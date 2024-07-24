@@ -10,7 +10,7 @@ English | 英文 | العربية
 
 🙌 **Join Us:** Together we can advance the frontier of AI development and foster a harmonious relationship between intelligent agents and humans. Your support of our community and participation in our projects make a significant difference in building the AI society of tomorrow.
 
-**Discover More at:** [CAMEL-AI.org](https://www.camel-ai.org/) [CAMEL GitHub Repository](https://github.com/camel-ai/camel)!
+**Discover More at:** [CAMEL-AI.org](https://www.camel-ai.org/) and [CAMEL GitHub Repository](https://github.com/camel-ai/camel)!
 
 ---
 
