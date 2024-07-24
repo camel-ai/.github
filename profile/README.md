@@ -4,25 +4,30 @@
 
 English | 英文 | العربية
 
-Hello there, passionate AI enthusiasts! 🌟 We are 🐫 CAMEL-AI.org, a global coalition of students, researchers, and engineers dedicated to advancing the frontier of AI and fostering a harmonious relationship between agents and humans.
+🌟 **Hello AI enthusiasts!** We are 🐫 CAMEL-AI.org, the pioneer of a large language model-based multi-agent framework. Our open-source community, inspired by our research paper “CAMEL: Communicative Agents for ‘Mind’ Exploration of Large Language Model Society,” aims to explore scalable techniques for autonomous cooperation among communicative agents and their cognitive processes.
 
-📘 Our Mission: To harness the potential of AI agents in crafting a brighter and more inclusive future for all. Every contribution we receive helps push the boundaries of what's possible in the AI realm.
+📘 **Our Mission:** We provide a generic infrastructure for creating customisable agents, building multi-agent systems, and enabling practical applications. We offer a novel communicative agent framework and open-source our library for research on communicative agents and beyond. We invest wholeheartedly in exploring the scaling laws of agents and their co-existence with humans.
 
-🙌 Join Us: If you believe in a world where AI and humanity coexist and thrive, then you're in the right place. Your support can make a significant difference. Let's build the AI society of tomorrow, together!
+🙌 **Join Us:** Together we can advance the frontier of AI development and foster a harmonious relationship between intelligent agents and humans. Your support of our community and participation in our projects make a significant difference in building the AI society of tomorrow.
 
-🔗 Dive deeper and explore our projects on 🐫 [CAMEL-AI.org](https://www.camel-ai.org/)!
+**Discover More at:** [CAMEL-AI.org](https://www.camel-ai.org/) [CAMEL GitHub Repository](https://github.com/camel-ai/camel)!
 
 ---
 
 中文 | Chinese | صينى
 
-您好，热爱AI的朋友们！🌟 我们是 🐫 [CAMEL-AI.org](https://www.camel-ai.org/)，一个由学生、研究人员和工程师组成的全球团队，致力于推进AI的前沿，促进智能体与人类的和谐关系。
+🌟 **你好，AI爱好者们！**
+我们是🐫 CAMEL-AI.org，大语言模型多智能体框架的先驱者。我们的开源社区受到我们的研究论文“CAMEL: Communicative Agents for ‘Mind’ Exploration of Large Language Model Society”的启发，旨在探索大语言模型智能体的自主交流，合作，与认知的可扩展技术。
 
-📘 我们的使命：利用AI智能体的潜能，为所有人打造一个更加光明和包容的未来。我们收到的每一份贡献都有助于推动AI领域的可能性边界。
+📘 **我们的使命：**
+我们提供一个通用的人工智能基础设施，用于创建高度定制化的智能体，构建多智能体系统，并实现广泛的实际应用。我们提供了一个新颖的多智能体交互框架，并开源我们的代码库以最大限度地支持与多智能体相关的先锋学术研究。我们全心投入探索多智能体系统的扩展定律及其与人类共存的可能性。
 
-🙌 加入我们：如果您相信一个AI和人类共存并繁荣的世界，那么您来对了地方。您的支持可以产生重大影响。让我们一起建立明天的AI社会！
 
-🔗 深入了解并探索我们在 🐫 [CAMEL-AI.org](https://www.camel-ai.org/) 上的项目！
+🙌 **加入我们：**
+与一众志同道合的伙伴一起推进人工智能发展的前沿，促进智能体与人类的和谐共处。您对我们社区的支持和对我们项目的参与将对构建未来的人工智能社会产生重大影响。
+
+
+**了解更多：** [CAMEL-AI.org](https://www.camel-ai.org/) 和 [CAMEL GitHub Repository](https://github.com/camel-ai/camel)!
 
 ---
 
