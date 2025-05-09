@@ -23,7 +23,7 @@
 <p align="left">
 At CAMEL-AI, we have a simple yet profound belief:
 
-If AGI exists, it must be a multi-agent system. **Our Mission** is clear: [`Finding the Scaling Laws of Agents`](https://www.camel-ai.org/blogs/mission-at-camel-ai-org-finding-the-scaling-laws-of-agents). Intelligence emerges from diversity, not a single perfect principle. Multi-agent systems naturally follow "divide and conquer" approaches, breaking down complex problems across multiple specialized agents. Since 2023, we've been building the first multi-agent framework CAMEL
+We believe that scaling up multi-agent systems is a pathway toward AGI. **Our Mission** is clear: [`Finding the Scaling Laws of Agents`](https://www.camel-ai.org/blogs/mission-at-camel-ai-org-finding-the-scaling-laws-of-agents). Intelligence emerges from diversity, not a single perfect principle. Multi-agent systems naturally follow "divide and conquer" approaches, breaking down complex problems across multiple specialized agents. Since 2023, we've been building the first multi-agent framework CAMEL
 
 **✨ We're focused on 3 dimensions of agent scaling laws:**
 
@@ -45,7 +45,7 @@ We're creating the infrastructure from frameworks to applications. Although we'r
 <p align="left">
 在CAMEL-AI，我们秉持一个简单而深刻的信念：
 
-若通用人工智能（AGI）存在，它必定是多智能体系统。**我们的使命**清晰明确：[`探索智能体的扩展法则`](https://www.camel-ai.org/blogs/mission-at-camel-ai-org-finding-the-scaling-laws-of-agents)。智能源于多样性，而非单一完美原则。多智能体系统天然遵循"分而治之"策略，通过多个专业化智能体分解复杂问题。自2023年起，我们构建了首个多智能体框架CAMEL
+我们相信，扩大多智能体系统的规模是通往通用人工智能的一条路径。**我们的使命**清晰明确：[`探索智能体的扩展法则`](https://www.camel-ai.org/blogs/mission-at-camel-ai-org-finding-the-scaling-laws-of-agents)。智能源于多样性，而非单一完美原则。多智能体系统天然遵循"分而治之"策略，通过多个专业化智能体分解复杂问题。自2023年起，我们构建了首个多智能体框架CAMEL
 
 **✨ 我们专注于智能体扩展法则的三大维度：**
 
@@ -67,7 +67,7 @@ We're creating the infrastructure from frameworks to applications. Although we'r
 <p align="right">
 في CAMEL-AI، نؤمن بفكرة بسيطة لكنها عميقة:
 
-إذا كان الذكاء العام الاصطناعي (AGI) موجودًا، فلا بد أن يكون نظامًا متعدد الوكلاء. **مهمتنا** واضحة: [`اكتشاف قوانين توسيع نطاق الوكلاء`](https://www.camel-ai.org/blogs/mission-at-camel-ai-org-finding-the-scaling-laws-of-agents). الذكاء ينبع من التنوع، وليس من مبدأ واحد مثالي. تتبع الأنظمة متعددة الوكلاء نهج "فرّق تسُد" بشكل طبيعي، حيث تقسم المشكلات المعقدة عبر وكلاء متخصصين. منذ عام 2023، نعمل على بناء أول إطار عمل متعدد الوكلاء CAMEL.
+نحن نؤمن بأن توسيع نطاق الأنظمة متعددة الوكلاء هو طريق نحو الذكاء العام الاصطناعي. **مهمتنا** واضحة: [`اكتشاف قوانين توسيع نطاق الوكلاء`](https://www.camel-ai.org/blogs/mission-at-camel-ai-org-finding-the-scaling-laws-of-agents). الذكاء ينبع من التنوع، وليس من مبدأ واحد مثالي. تتبع الأنظمة متعددة الوكلاء نهج "فرّق تسُد" بشكل طبيعي، حيث تقسم المشكلات المعقدة عبر وكلاء متخصصين. منذ عام 2023، نعمل على بناء أول إطار عمل متعدد الوكلاء CAMEL.
 
 **✨ نركز على ثلاثة أبعاد لقوانين توسيع نطاق الوكلاء:**
 
